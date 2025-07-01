@@ -19,3 +19,8 @@
 
 
 #DESCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE DONE AND PASTE PICTURES OF OUTPUT
+
+
+##output##
+
+![Image](https://github.com/user-attachments/assets/68318d64-28dc-4600-91e7-8f16768b910e)
