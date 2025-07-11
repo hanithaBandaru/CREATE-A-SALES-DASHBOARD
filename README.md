@@ -18,7 +18,9 @@
 **MENTOR**: NEELA SANTOSH
 
 
-#DESCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE DONE AND PASTE PICTURES OF OUTPUT
+#DESCRIPTION#
+
+To design and develop an interactive dashboard using Microsoft Power BI that visualizes key sales metrics, including sales trends over time, top-performing products, and regional sales distribution. This task demonstrates the ability to import data, build effective visualizations, and present business insights clearly.
 
 
 ##output##
